@@ -1,5 +1,7 @@
 # UK-Railway-Data-Analysis-Project
 
+![alt text](image.png)
+
 # UK Railway Data Analysis Project
 
 ## Overview
@@ -34,7 +36,4 @@ The insights generated from this project can be used by:
 - Stakeholders interested in understanding passenger behavior and service performance
 
 ## Tools & Technologies
-*(To be updated as the project evolves — e.g., Python, SQL, Pandas, Power BI, etc.)*
-
-## Status
-🚧 **In Progress** — Data cleaning and exploratory analysis underway.
+Python and Excel
